@@ -1,0 +1,13 @@
+# compiled files
+*.class
+
+# VSCode
+.vscode/
+
+# logs
+*.log
+
+# build folders
+bin/
+build/
+out/
